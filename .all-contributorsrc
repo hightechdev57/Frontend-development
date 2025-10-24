@@ -1,0 +1,179 @@
+{
+  "projectName": "frontend-development",
+  "projectOwner": "codingknite",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "files": [
+    "README.md",
+    "CONTRIBUTING.md"
+  ],
+  "imageSize": 100,
+  "commit": true,
+  "commitConvention": "none",
+  "contributors": [
+    {
+      "login": "codingknite",
+      "name": "Joel P. Mugalu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/70036189?v=4",
+      "profile": "https://codingknite.com/",
+      "contributions": [
+        "doc",
+        "content",
+        "maintenance"
+      ]
+    },
+    {
+      "login": "ChinmayMhatre",
+      "name": "Chinmay Mhatre",
+      "avatar_url": "https://avatars.githubusercontent.com/u/51131670?v=4",
+      "profile": "https://github.com/ChinmayMhatre",
+      "contributions": [
+        "content",
+        "doc"
+      ]
+    },
+    {
+      "login": "phuoc-ng",
+      "name": "phuoc-ng",
+      "avatar_url": "https://avatars.githubusercontent.com/u/57786711?v=4",
+      "profile": "https://twitter.com/nghuuphuoc",
+      "contributions": [
+        "content",
+        "doc"
+      ]
+    },
+    {
+      "login": "gragland",
+      "name": "Gabe Ragland",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1481077?v=4",
+      "profile": "https://divjoy.com/",
+      "contributions": [
+        "content",
+        "doc"
+      ]
+    },
+    {
+      "login": "i786m",
+      "name": "Imran Mohamed",
+      "avatar_url": "https://avatars.githubusercontent.com/u/71926855?v=4",
+      "profile": "https://www.imranbmohamed.com/",
+      "contributions": [
+        "content",
+        "doc"
+      ]
+    },
+    {
+      "login": "AlexNodex",
+      "name": "AlexNodex",
+      "avatar_url": "https://avatars.githubusercontent.com/u/17162626?v=4",
+      "profile": "https://github.com/AlexNodex",
+      "contributions": [
+        "content",
+        "doc"
+      ]
+    },
+    {
+      "login": "h7y",
+      "name": "Arun",
+      "avatar_url": "https://avatars.githubusercontent.com/u/22396000?v=4",
+      "profile": "https://arun.app/",
+      "contributions": [
+        "content",
+        "doc"
+      ]
+    },
+    {
+      "login": "binyamin",
+      "name": "Binyamin Aron Green",
+      "avatar_url": "https://avatars.githubusercontent.com/u/39805353?v=4",
+      "profile": "https://binyam.in/",
+      "contributions": [
+        "content",
+        "doc"
+      ]
+    },
+    {
+      "login": "chinchang",
+      "name": "Kushagra Gour",
+      "avatar_url": "https://avatars.githubusercontent.com/u/379918?v=4",
+      "profile": "https://cssbattle.dev/",
+      "contributions": [
+        "content",
+        "doc"
+      ]
+    },
+    {
+      "login": "nathsimpson",
+      "name": "Nathan Simpson",
+      "avatar_url": "https://avatars.githubusercontent.com/u/12689383?v=4",
+      "profile": "https://github.com/nathsimpson",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "monarchwadia",
+      "name": "Monarch Wadia",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4856944?v=4",
+      "profile": "https://mintbean.io/",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "qjnz",
+      "name": "QJ Li",
+      "avatar_url": "https://avatars.githubusercontent.com/u/75322?v=4",
+      "profile": "https://medium.com/@qjli",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "sayemon10",
+      "name": "S. M. Abdul Aziz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/35277447?v=4",
+      "profile": "https://sayemon10.github.io/",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "xerosic",
+      "name": "xerosic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/42121005?v=4",
+      "profile": "https://github.com/xerosic",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "ZoranJambor",
+      "name": "Zoran Jambor",
+      "avatar_url": "https://avatars.githubusercontent.com/u/515906?v=4",
+      "profile": "https://zoranjambor.com/",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "jenniferfu0811",
+      "name": "jenniferfu0811",
+      "avatar_url": "https://avatars.githubusercontent.com/u/25816882?v=4",
+      "profile": "https://github.com/jenniferfu0811",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "devjhex",
+      "name": "Jonah Ssegawa",
+      "avatar_url": "https://avatars.githubusercontent.com/u/124887722?v=4",
+      "profile": "https://github.com/devjhex",
+      "contributions": [
+        "doc"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7
+}
